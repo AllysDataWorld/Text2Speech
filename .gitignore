@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 TXT2SP_NOTES.txt
 
 
+=======
+>>>>>>> e89a173f2410cd7b471601c4c7f916498a09a39e
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
